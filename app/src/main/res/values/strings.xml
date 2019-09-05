@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lyrics Spotter</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="song_name">Song Name</string>
+    <string name="title_activity_test">test</string>
+    <string name="connect_spotify_text">Connect your Spotify account</string>
+    <string name="enable_chathead_text">Enable LyricHead overlay</string>
+    <string name="html_404">Failed to find song or artist.</string>
+    <string name="genius_url">https://genius.com/</string>
+    <string name="alert_text">Are you sure you want to turn off the overlay?</string>
+    <string name="NO">NO</string>
+    <string name="YES">YES</string>
+</resources>
